@@ -1,0 +1,10 @@
+{
+  "title": "Repeated Signals",
+  "category": "Cryptography",
+  "provenance": "Original synthetic practice challenge, created with AI assistance.",
+  "hint": "Both messages were XORed with the same keystream, starting at byte zero.",
+  "known_plaintext": "Daily weather report: clear skies and mild winds.",
+  "known_ciphertext_hex": "10331163f7a2bdc78027583a00ef3c7084211e1876dcfecc93465bdf7b550338bac653bf003b37124f16a9e762e9c3be35",
+  "target_ciphertext_hex": "17063e74fce7bfd1883d5700139025708d3d181e299df0ff84425f9a69521902a48341a2057c3f085e",
+  "flag_format": "CTF{lowercase_words_and_digits}"
+}
