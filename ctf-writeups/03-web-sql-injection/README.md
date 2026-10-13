@@ -1,6 +1,6 @@
 # 03 · Quoted Out
 
-**Web security / local backend · Introductory · Original practice challenge**
+**Web security / local backend · Introductory · Practice challenge**
 
 [All write-ups](../README.md) · [Login implementation](lab.py) · [Complete solver](solve.py)
 

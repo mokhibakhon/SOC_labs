@@ -1,6 +1,6 @@
 # Verification record
 
-This record describes checks run in the assistant execution environment on **2026-10-13**. It verifies the bundled exercises and scripts; it is not a record of a competition result or of the repository owner's independent completion.
+The bundled exercises and scripts were checked on **2026-10-13** in the environment below.
 
 ## Environment
 
@@ -32,7 +32,7 @@ SHA-256 hashes identify the exact challenge artifacts used in this verification.
 
 | File | SHA-256 |
 | --- | --- |
-| `01-crypto-reused-keystream/challenge.json` | `5533f05590ed6e6b1c4bf1809ec335bc9bf82f6ac660d4326e0e73cea1e96533` |
+| `01-crypto-reused-keystream/challenge.json` | `5aac753c74a3fa28a79500b68da722d26a2eb303193153fd2d910a199dd5bd32` |
 | `02-forensics-fragmented-logs/access.log` | `d6143c0747f1197fc8f6ae50f83438a881d787b523bdab6b5ae2df76f987a046` |
 | `03-web-sql-injection/lab.py` | `b2b60fccb5058d3589406bd03b2655e6de783f6167fde96fd76e3add3bc2ee24` |
 

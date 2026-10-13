@@ -1,6 +1,6 @@
 # 02 · Out of Order
 
-**Log forensics · Introductory · Original practice challenge**
+**Log forensics · Introductory · Practice challenge**
 
 [All write-ups](../README.md) · [Access log](access.log) · [Complete solver](solve.py)
 

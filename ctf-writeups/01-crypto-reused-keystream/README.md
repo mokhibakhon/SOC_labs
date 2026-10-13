@@ -1,6 +1,6 @@
 # 01 · Repeated Signals
 
-**Cryptography · Introductory · Original practice challenge**
+**Cryptography · Introductory · Practice challenge**
 
 [All write-ups](../README.md) · [Challenge data](challenge.json) · [Complete solver](solve.py)
 
